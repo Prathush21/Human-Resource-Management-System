@@ -6,9 +6,8 @@ Web based application for a company’s Human Resource Management System to mana
 ```
 git clone https://github.com/Prathush21/Human-Resource-Management-System.git
 ```
-```
-npm install
-```
+## Frontend
+
 ```
 cd client
 ```
@@ -17,4 +16,13 @@ npm install
 ```
 ```
 npm start
+```
+
+## Backend
+
+```
+cd server
+```
+```
+npm run dev
 ```
