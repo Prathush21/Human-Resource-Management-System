@@ -4,8 +4,7 @@ Web based application for a company’s Human Resource Management System to mana
 # Getting Started
 
 ```
-git clone https://github.com/Prathush21/Supplier-Management-System.git
-
+git clone https://github.com/Prathush21/Human-Resource-Management-System.git
 ```
 ```
 npm install
