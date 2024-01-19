@@ -1,5 +1,5 @@
 # Human Resource Management System
-Web based application for a company to manage their suppliers and supply records details. My role was to develop the front end of the system.
+Web based application for a company’s Human Resource Management System to manage their employee details, leave details and derive useful reports. My role was to develop the leave configuration, design the database and reports.
 
 # Getting Started
 
