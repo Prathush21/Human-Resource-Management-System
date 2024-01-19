@@ -10,5 +10,11 @@ git clone https://github.com/Prathush21/Human-Resource-Management-System.git
 npm install
 ```
 ```
+cd client
+```
+```
+npm install
+```
+```
 npm start
 ```
